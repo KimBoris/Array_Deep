@@ -219,19 +219,17 @@ int main()
 //14 23 22 21 8
 //13 12 11 10 9
 
-	int aList[5][5] = { 0 };
+	/*int aList[5][5] = { 0 };
 	int i = 0;
 	int j = 0;
 	int nCounter = 1;
 	int nOffset = 0;
+	scanf_s("%d", &nOffset);
+
+	 */
 
 
-
-	//for (int i = 0; i < 5; i++)
-	//{
-	//	if(i%2 )
-	//}
-
+//Look-Up Table
 
 	return 0;
 }
